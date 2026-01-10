@@ -2,7 +2,7 @@
 
 **Founding-Level AI Full-Stack Engineer | RAG Systems • MCP • Startup Infrastructure**
 
-📍 Zanzibar, Tanzania (Remote-first)  
+📍 Zanzibar, Tanzania
 🔗 LinkedIn: [https://www.linkedin.com/in/ateeq-ali-5b5b71144/](https://www.linkedin.com/in/ateeq-ali-5b5b71144/)  
 💻 GitHub: [https://github.com/ateeq1999/](https://github.com/ateeq1999/)  
 📧 [ateeg.dev@email.com](mailto:ateeg.dev@email.com)
