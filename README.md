@@ -1,19 +1,32 @@
 # 👋 Hi, I'm Ateg Ali
 
-**AI-Focused Full-Stack Engineer | Startup Builder | Remote-First Technologist**
+**Founding-Level AI Full-Stack Engineer | RAG Systems • MCP • Startup Infrastructure**
 
-I build **AI-powered products**, **end-to-end RAG pipeline systems**, and **startup-grade platforms** from zero to production. I work comfortably across backend, frontend, AI tooling, and infrastructure — with a strong bias toward clean architecture, performance, and execution.
+📍 Zanzibar, Tanzania (Remote-first)  
+🔗 LinkedIn: [https://www.linkedin.com/in/ateeq-ali-5b5b71144/](https://www.linkedin.com/in/ateeq-ali-5b5b71144/)  
+💻 GitHub: [https://github.com/ateeq1999/](https://github.com/ateeq1999/)  
+📧 [ateeg.dev@email.com](mailto:ateeg.dev@email.com)
 
 ---
 
-## 🧠 What I Focus On
+## 🧠 About Me
 
-* 🤖 **RAG Pipeline Systems** (ingestion → embeddings → retrieval → generation)
-* 🔎 **Vector Embeddings & Semantic Search**
+I’m a **founding-level AI Full-Stack Engineer** with 6+ years of experience building and shipping **production-grade systems** in startup and fast-moving environments.
+
+I specialize in taking products from **idea → MVP → production**, with deep hands-on ownership across **AI systems**, **backend architecture**, **frontend delivery**, and **developer tooling**. Most of my work focuses on **end-to-end RAG pipelines**, **AI agents**, and **MCP (Model Context Protocol)** tooling—where AI is core infrastructure, not a surface feature.
+
+I’m most effective in early-stage teams that value speed, ownership, and technical clarity.
+
+---
+
+## 🚀 What I Focus On
+
+* 🤖 **End-to-End RAG Pipeline Systems** (ingestion → embeddings → retrieval → generation)
+* 🧠 **Vector Embeddings & Semantic Search**
 * 🧩 **MCP (Model Context Protocol) Servers & AI Agents**
 * 🛠️ **AI Tooling & Developer Platforms**
-* ⚡ **High-performance Backends (Bun.js, Node.js)**
-* 🎨 **Modern Frontends (React, Tailwind, shadcn/ui)**
+* ⚡ **High-Performance Backends** (Bun.js, Node.js)
+* 🎨 **Modern Frontends** (React, Tailwind, component-driven UI)
 * 🚀 **Startup MVPs → Scalable Production Systems**
 
 ---
@@ -22,21 +35,20 @@ I build **AI-powered products**, **end-to-end RAG pipeline systems**, and **star
 
 ### Languages
 
-* JavaScript (ES6+), TypeScript
-* PHP, Golang, Dart
+* JavaScript, TypeScript
+* PHP, Python, Golang, Dart
 
 ### Backend & Runtime
 
 * Node.js, **Bun.js**
-* AdonisJS, ExpressJS, Laravel
-* **ElysiaJS**
-* REST APIs, WebSockets, Real-time Systems
+* AdonisJS, ExpressJS, Laravel, ElysiaJS
+* REST APIs, WebSockets, Real-time & Background Processing
 
 ### Frontend
 
 * **React.js**, Vue.js, Next.js
 * **TanStack Start**, **React Router**
-* **shadcn/ui**, **Tailwind CSS**
+* **Tailwind CSS**, **shadcn/ui**
 
 ### AI & LLM Engineering
 
@@ -45,7 +57,7 @@ I build **AI-powered products**, **end-to-end RAG pipeline systems**, and **star
 * LLM Integration (Claude, OpenAI)
 * **MCP Servers & Clients**
 * **AI Tooling & Agent Systems**
-* LangChain, EmbedJS
+* LangChain, EmbedJS, Crewai
 * Ollama (Local LLMs)
 * Claude Code, Antigravity
 * Vercel AI SDK
@@ -58,43 +70,36 @@ I build **AI-powered products**, **end-to-end RAG pipeline systems**, and **star
 
 ---
 
-## 🚀 Featured Work
+## 🌍 Featured Project
 
-### 🌍 KPIN – AI-Powered Digital Tourism Platform
+### KPIN – AI-Powered Digital Tourism Platform
 
 **Founder & Lead Engineer**
 
-* Built a location-aware tourism platform from scratch
-* Designed scalable backend architecture and real-time systems
-* Implemented **AI-powered RAG pipelines** for personalized discovery
-* Built **MCP-based AI tools** enabling agent interaction with platform services
+* Built an AI-powered tourism platform from scratch
+* Took the product from concept to production as primary engineer
+* Designed scalable backend architecture with real-time systems
+* Implemented **end-to-end RAG pipelines** for semantic discovery and personalization
+* Built **MCP-based AI tooling** enabling agents to execute real platform actions
+* Integrated LLM workflows directly into core user journeys
 * Led product, engineering, and delivery in a startup environment
 
 ---
 
-## 🧪 What I’m Currently Working On
+## 🧪 What I’m Currently Exploring
 
-* Advanced **RAG architectures** for production systems
+* Production-grade **RAG architectures**
 * **MCP-first AI tooling platforms**
-* Bun.js + ElysiaJS performance-first APIs
-* Developer-focused AI infrastructure
+* Developer-facing AI infrastructure
 
 ---
 
 ## 🌍 Remote & Startup Friendly
 
+* ✅ Founder-level ownership mindset
 * ✅ Comfortable with async & distributed teams
-* ✅ Strong product ownership mindset
 * ✅ Experience shipping MVPs fast and scaling responsibly
 
 ---
 
-## 📫 Connect With Me
-
-* 💼 LinkedIn: [https://www.linkedin.com/in/ateeq-ali-5b5b71144/](https://www.linkedin.com/in/ateeq-ali-5b5b71144/)
-* 💻 GitHub: [https://github.com/ateeq1999](https://github.com/ateeq1999)
-* 📧 Email: [ateeg.dev@email.com](mailto:ateeg.dev@email.com)
-
----
-
-> *I enjoy building AI systems that actually ship, scale, and create real-world impact.*
+> *I enjoy building AI systems that ship fast, scale cleanly, and create real-world impact.*
